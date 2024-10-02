@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+    <label for="Phone"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter Phone number" name="Phone" id="Phone" required>
+    <br>
+
     <label for="Phone"><b>Enter phone</b></label>
     <input type="text" placeholder="Enter Phone number" name="mobile" id="phone" required>
     <br>
